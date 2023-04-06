@@ -1,0 +1,1 @@
+# openvino-model--server-k8s-terraform
